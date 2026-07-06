@@ -1,6 +1,6 @@
 # Hi 👋, I'm Irene Wanjugu Weru
 
-### Customer Experience Leader | Operations Manager | Data Analytics | Machine Learning Enthusiast | AI Operations
+### Customer Experience Leader | Operations Manager | Data Analytics | AI Enthusiast 
 
 I'm passionate about improving customer experiences, optimizing business operations, and using data to drive better decision-making. With over 8 years of experience in customer experience, operations management, and business process improvement, I enjoy solving complex business challenges through analytics, process optimization, and technology.
 
@@ -70,11 +70,11 @@ Designed reporting templates, performance dashboards, and operational scorecards
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
-- Artificial Intelligence Operations (AI Ops)
-- Large Language Models (LLMs)
-- Advanced SQL
+- Building AI-powered customer support workflows
+- Customer Analytics
+- Business Intelligence Dashboards
 
 ---
 
@@ -86,4 +86,4 @@ Designed reporting templates, performance dashboards, and operational scorecards
 
 ---
 
-> *"Transforming data into insights, operations into excellence, and customer experiences into lasting value."*
+> *"Great customer experiences are built through data, operational excellence, and continuous innovation."*
