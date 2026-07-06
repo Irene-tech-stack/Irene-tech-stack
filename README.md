@@ -31,7 +31,6 @@ I'm passionate about improving customer experiences, optimizing business operati
 - Customer Churn Prediction
 - Predictive Analytics
 - Data Cleaning
-- Feature Engineering
 - Model Evaluation
 
 ### Operations & Leadership
@@ -47,8 +46,11 @@ I'm passionate about improving customer experiences, optimizing business operati
 - Git & GitHub
 - Microsoft Office
 - CRM Systems
-- Jira
-- Trello
+-SQL workbench
+-Power BI
+-Splynx
+-Zabbix
+
 
 ---
 
@@ -73,8 +75,6 @@ Designed reporting templates, performance dashboards, and operational scorecards
 - Artificial Intelligence Operations (AI Ops)
 - Large Language Models (LLMs)
 - Advanced SQL
-- Data Engineering Concepts
-- Cloud Technologies
 
 ---
 
@@ -82,7 +82,7 @@ Designed reporting templates, performance dashboards, and operational scorecards
 
 📧 **Email:** ireneweru9803@gmail.com
 
-💼 **LinkedIn:** *(Add your LinkedIn profile link here)*
+💼 **LinkedIn:** www.linkedin.com/in/irene-weru-824b3014b
 
 ---
 
